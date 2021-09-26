@@ -1,6 +1,6 @@
 # FACIAL RECOGNITION
 
-## Using face_recognotion package
+## Using face_recognition package
 
 ### Package summary:
 - Recognize and manipulate faces from Python with the world's simplest face recognition library
