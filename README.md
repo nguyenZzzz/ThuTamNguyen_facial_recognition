@@ -1,4 +1,4 @@
-# Facial Identification
+# FACIAL RECOGNITION
 
 ## Using face_recognotion package
 
