@@ -32,6 +32,9 @@
 | Yolov3| COCO |
 | Xception| ImageNet|
 
+### Description
+This model uses Xception architecture for Transfer Learning, and is trained on 300 images of 3 classes using the last 27 layers in the network. The classifier is a Dense layer with activaiton = 'softmax'
+
 ### Training Data
 300 images of 3 classes have been used for the purpose of training the classifier of this project. The image is taken with either a laptop's webcam or cell-phone and cropped so that only the faces are in the images
 
