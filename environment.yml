@@ -18,3 +18,5 @@ dependencies:
     - scipy
     # Deep learning
     - tensorflow=2.6.0
+    # Computer Vision
+    - opencv-python
