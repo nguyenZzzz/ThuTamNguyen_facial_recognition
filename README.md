@@ -26,6 +26,14 @@
 
 ## Image Detection with YOLOv3 & Classfication by DNN
 
+### Pre-trained models
+| Model name      | Training dataset | Architecture |
+|-----------------|------------------|-------------|
+| Yolov3| Coco |
+| Xception| ImageNet|
 
+### Training Data
+300 images of 3 classes have been used for the purpose of training the classifier of this project. The image is taken with either a laptop's webcam or cell-phone and cropped so that only the faces are in the images
 
-
+### Performance
+The accuracy for the final model is 100% 
