@@ -27,9 +27,9 @@
 ## Image Detection with YOLOv3 & Classfication by DNN
 
 ### Pre-trained models
-| Model name      | Training dataset | Architecture |
-|-----------------|------------------|-------------|
-| Yolov3| Coco |
+| Model name      | Training dataset |
+|-----------------|------------------|
+| Yolov3| COCO |
 | Xception| ImageNet|
 
 ### Training Data
