@@ -8,20 +8,29 @@
 - Go to this [link](https://github.com/ageitgey/face_recognition) for more information
 ### Some main features:
 - Find faces in picture:
-  
-  ![c32c74e54563859b2514e94d555ee3a0.png](https://cloud.githubusercontent.com/assets/896692/23625227/42c65360-025d-11e7-94ea-b12f28cb34b4.png)
+
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/896692/23625227/42c65360-025d-11e7-94ea-b12f28cb34b4.png" alt="Sublime's custom image"/>
+</p>
   
 - Find and manipulate facial features in pictture:
 	Get locations and outlines of each person's eyes, nose, mouth and chin.
-  
-   ![gdfg](https://cloud.githubusercontent.com/assets/896692/23625282/7f2d79dc-025d-11e7-8728-d8924596f8fa.png)
+	
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/896692/23625282/7f2d79dc-025d-11e7-8728-d8924596f8fa.png" alt="Sublime's custom image"/>
+</p>
+
 - Connect with OpenCV for real-time face recognition:
 
-	![](https://cloud.githubusercontent.com/assets/896692/24430398/36f0e3f0-13cb-11e7-8258-4d0c9ce1e419.gif)
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/896692/24430398/36f0e3f0-13cb-11e7-8258-4d0c9ce1e419.gif" alt="Sublime's custom image"/>
+</p>
 
 ### Workflow:
 
-![image](https://user-images.githubusercontent.com/87942072/134812407-fc67b9a4-0bf8-4b5d-90fc-c8ec3bcd9c72.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/87942072/135027253-2ddbff24-3e06-4232-802c-acd92cca945d.png" alt="Sublime's custom image"/>
+</p>
 
 -------------------------------------------------
 ## Image Detection with YOLOv3 & Classfication by DNN
