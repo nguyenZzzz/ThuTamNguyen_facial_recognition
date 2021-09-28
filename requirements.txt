@@ -4,3 +4,5 @@ opencv-python
 h5py
 matplotlib
 numpy
+face_recognition
+dlib
