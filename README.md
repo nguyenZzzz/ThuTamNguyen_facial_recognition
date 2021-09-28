@@ -1,4 +1,4 @@
-# FACIAL RECOGNITION
+# FACIAL RECOGNITION PROJECT
 
 ## Using face_recognition package
 
